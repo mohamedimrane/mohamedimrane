@@ -23,11 +23,11 @@ I am a 13 years old programmer who interested in web technologies, game making a
 [<img align="left" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="30px" />](https://laravel.com/)
 [<img align="left" src="https://seeklogo.com/images/G/go-logo-046185B647-seeklogo.com.png" width="23px" />](http://golang.org/)
 [<img align="left" src="https://gofiber.io/assets/images/logo.svg" width="60px" />](https://gofiber.io/)
+<br>
+<br>
 [<img align="left" src="https://seeklogo.com/images/N/nativescript-logo-309BDE68D3-seeklogo.com.png" width="30px" />](https://nativescript.org/)
 [<img align="left" src="https://iconape.com/wp-content/png_logo_vector/arduino-logo.png" width="30px" />](http://arduino.cc)
 [<img align="left" src="https://seeklogo.com/images/U/unity-logo-988A22E703-seeklogo.com.png" width="30px" />](https://unity.com/)
-<br>
-<br>
 [<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" width="50px" />](https://git-scm.com/)
 [<img align="left" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" width="20px" />](https://figma.com/)
 
