@@ -7,7 +7,7 @@ I am a 13 years old programmer who interested in web technologies, game making a
 <br>
 <br>
 
-<h2 align="center">Languages and tools that I use</h2>
+<h2 align="center">Languages and tools</h2>
 
 [<img align="left" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="30px" />]()
 [<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/240px-CSS3_logo.svg.png" width="30px" />]()
@@ -34,7 +34,7 @@ I am a 13 years old programmer who interested in web technologies, game making a
 <br>
 <br>
 
-<h2 align="center">My Github Stats</h2>
+<h2 align="center">My Github stats</h2>
 
 <!-- ![Imrane's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedimrane&theme=default) -->
 <!-- ![Imrane's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedimrane&theme=dark) -->
@@ -43,6 +43,11 @@ I am a 13 years old programmer who interested in web technologies, game making a
 <!-- ![Imrane's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedimrane&theme=vue-dark) -->
 
 ![Imrane's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedimrane&theme=nord)
-[](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedimrane&langs_count=8&theme=nord)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedimrane&theme=nord)
+<br>
+<br>
+
+<h2 align="center">Featured Github repositories</h2>
+
+![](https://github-readme-stats.vercel.app/api/pin/?username=mohamedimrane&repo=gofiber-blog)
