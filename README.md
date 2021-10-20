@@ -50,4 +50,5 @@ I am a 13 years old programmer who interested in web technologies, game making a
 
 <h2 align="center">Featured Github repositories</h2>
 
+![](https://github-readme-stats.vercel.app/api/pin/?username=mohamedimrane&repo=go-blog)
 ![](https://github-readme-stats.vercel.app/api/pin/?username=mohamedimrane&repo=gofiber-blog)
